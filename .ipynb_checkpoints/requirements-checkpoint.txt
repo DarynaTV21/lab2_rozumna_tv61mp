@@ -1,3 +1,0 @@
-# Л2 — карта Кохонена й асоціативні правила
-minisom
-mlxtend>=0.25    # association_rules отримав обов'язковий num_itemsets
